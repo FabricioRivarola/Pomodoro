@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "pomodoror3",
+    "name": "Pomodoror",
     "slug": "pomodoror3",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -25,6 +25,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "53a45726-a378-49ad-9c9b-f43067739d54"
+      }
     }
   }
 }
